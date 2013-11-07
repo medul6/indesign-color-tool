@@ -1,4 +1,4 @@
-InDesign Color Tool (Pre-Pre-ALPHA!)
+InDesign Color Tool (ALPHA! Still in Development)
 =============
 
 Description
@@ -8,10 +8,11 @@ This is under development, the script may not work! Don't use it unless you know
 
 This is an AppleScript for doing various color "actions" on all open documents. Like:
 
-* "Verteilen" -- distribute the selected color(s) to every open document (Right now the function is called "Farben laden" and it loads the swatches from the frontmost document …)
-* "Löschen und Ersetzen" -- delete the selected color(s) in every open document (is called "Farben löschen")
-* "Lösche unbenutzte Farben" -- delete unused color(s) in every open document
-* "Unbenannte Farben hinzufügen" -- Add "unadded" color(s) in every open document (not yet inplemented!)
+* "Unbenuzte Farben löschen" -- delete unused color(s) in every open document
+* "Unbenannte Farben hinzufügen" -- Add "unadded" color(s) in every open document
+* "Farben löschen und ersetzen" -- delete the selected color(s) in every open document
+* "Farben verteilen" -- distribute the selected color(s) to every open document
+
 
 
 After executing the script in InDesign you'll be presented with a "function" dialog.
